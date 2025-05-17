@@ -1,3 +1,5 @@
+[![Ikhbar Nurinsani Banner](images/banner.png)](#)
+
 ## Hi there! 👋
 
 My name is Ikhbar Nurinsani and I'm a Fullstack Web Developer from Indonesia.
@@ -15,4 +17,4 @@ My name is Ikhbar Nurinsani and I'm a Fullstack Web Developer from Indonesia.
 
 #### My Github Stats
 
-[![Ikhbar Nurinsani GitHub Stats](https://github-readme-stats-ikhbarnuridevs-projects.vercel.app/api?username=ikhbarnuridev)](https://github.com/ikhbarnuridev/github-readme-stats)
+[![Ikhbar Nurinsani GitHub Stats](https://github-readme-stats-ikhbarnuridevs-projects.vercel.app/api?username=ikhbarnuridev)](#)
