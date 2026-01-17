@@ -2,16 +2,9 @@
 
 ## Hi there! 👋
 
-
-<style>
-  .show-on-desktop { display: none; }
-  @media (min-width: 601px) {
-    .show-on-desktop { display: inline !important; }
-  }
-</style>
 <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
   My name is Ikhbar Nurinsani and I'm a Full Stack Web Developer
-  <img class="show-on-desktop" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding Animation" width="96" style="vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding Animation" width="96" style="vertical-align: middle;" />
   from Indonesia.
 </div>
 
