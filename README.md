@@ -2,11 +2,11 @@
 
 ## Hi there! 👋
 
-<div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
+<div>
   My name is Ikhbar Nurinsani and I'm a Full Stack Web Developer
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding Animation" width="96" style="vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding Animation" width="96"  />
   from Indonesia.
-</div>
+</div></br>
 
 - 🔭 Currently working at [@ict-ummi](https://github.com/ict-ummi)
 - 🌱 Actively developing skills in [**Laravel**](https://laravel.com) (with [**Filament**](https://filamentphp.com)), [**React JS**](https://react.dev), and [**Flutter**](https://flutter.dev)
